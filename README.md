@@ -1,26 +1,7 @@
-Calculator
----
-<img src="Logotype primary.png" width="60%" height="60%" />
+![image](https://github.com/evklein/npm-playwright-exploration/assets/5017975/06787eb7-c7f3-43d1-a3fb-bfe5ab27b0b2)
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+# Playwright Exploration, in Node
 
+I wanted to learn some techniques for automating end-to-end testing with [Playwright](https://playwright.dev/), so I'm documenting that work here in this repo.
 
-
-Try It
----
-
-[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
-
-
-
-Install
----
-
-`npm install`
-
-
-
-Usage
----
-
-`npm start`
+The sample project I'm using as a base is [andrewagain's React Calculator app](https://github.com/andrewagain/calculator). I'm going to avoid modifying the underlying source code if possible, so the majority of the work in this repo will be documented in `tests/`.
